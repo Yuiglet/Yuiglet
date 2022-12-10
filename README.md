@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development (frontend) and video games development
 - 🌱 I’m currently learning Software development and management engineering
 - 💞️ I’m looking to collaborate on video games development
-- 📫 How to reach me tw: Yuitosempai
+- 📫 How to reach me
 
 <!---
 Yuiglet/Yuiglet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
